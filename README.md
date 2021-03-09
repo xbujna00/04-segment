@@ -188,4 +188,5 @@ end Behavioral;
  
  
  c) Simulation graphs 
+ ![GRAPH](simulation.png)
  
