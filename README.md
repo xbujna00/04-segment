@@ -185,3 +185,7 @@ begin
 end Behavioral;
 
  ```
+ 
+ 
+ c) Simulation graphs 
+ 
