@@ -214,7 +214,7 @@ end Behavioral;
  
  
  ### Code of VHDL for LEDs(7:4)
- ```vhl
+ ```vhdl
      -- Display input value 
     LED(4 - 1  downto 0) <= SW;
    
