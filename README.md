@@ -24,8 +24,9 @@
 | E | 1110 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |
 | F | 1111 | 0 | 1 | 1 | 1 | 0 | 0 | 0 |
 
-### Code of hex_7seg.vhdl
 ### 2. Seven-segment display decoder
+### Code of hex_7seg.vhdl
+
 ```vhdl
 
 architecture Behavioral of hex_7seg is
